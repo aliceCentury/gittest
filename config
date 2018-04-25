@@ -6,7 +6,7 @@
 	ignorecase = true
 	precomposeunicode = true
 [remote "origin"]
-	url = https://aaa@github.com/aliceCentury/gittest.git
+	url = https://AlicePrincess@github.com/aliceCentury/gittest.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
